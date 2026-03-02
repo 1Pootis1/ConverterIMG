@@ -1,9 +1,6 @@
 # ConverterIMG
 Converting .webp &amp; .heic to jpeg
-
-# Image Converter
-
-Конвертер WEBP/HEIC в JPEG с простым GUI.
+(Конвертер WEBP/HEIC в JPEG с простым GUI.)
 
 ## 🚀 Быстрый старт
 
