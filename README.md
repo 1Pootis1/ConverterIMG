@@ -4,7 +4,7 @@ Converting .webp &amp; .heic to jpeg
 
 ## 🚀 Быстрый старт
 
-1. Скачайте `Image_Converter.exe` из [Releases](https://github.com/1Pootis1/ConverterIMG)
+1. Скачайте `Image_Converter.exe` из [Releases](https://github.com/1Pootis1/ConverterIMG/releases)
 2. Запустите!
 
 ## ✨ Возможности
